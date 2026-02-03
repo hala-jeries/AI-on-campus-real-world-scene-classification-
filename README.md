@@ -22,8 +22,8 @@ It addresses the domain shift problem by training a modern architecture on a cus
 - Model behavior analyzed using Grad-CAM and t-SNE visualizations
 
 ## Repository Contents
-- `THE_CODE.ipynb` : Training and evaluation notebook
-- `THE_PAPER.pdf` : Full technical project paper
+- `code.ipynb` : Training and evaluation notebook
+- `paper.pdf` : Full technical project paper
 
 ## Notes
 This repository is intended to showcase the practical implementation and experimental results of the project. Detailed methodology, analysis, and discussion are provided in the accompanying paper.
